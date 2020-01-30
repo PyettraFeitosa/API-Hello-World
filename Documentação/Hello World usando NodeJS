@@ -1,0 +1,9 @@
+Hello World usando Node JS 
+
+Essa aplicação eu fiz de forma mais simples, foi a que fiz para praticar a programação com o Node JS, testei algumas informações, em 
+outras aplicações consegui realizar alguns cadastros, mas a versão que envio contém apenas manipulações básicas do Node, criei algumas
+rotas para que o procedimento não ficasse só no Hello World e para tentar melhorar a avaliação. Para manipulação estudei algumas vídeo
+aulas do assunto e praticas fazendo testes nos códigos, além de utilizar conceitos de JavaScript e HTML.
+A aplicação roda no caminho "http:localhost:8080" com algumas rotas como "/sobre", "ola/nome/cargo" e "/cad" com algumas mensagens exibidas
+utilizando HTML e uma delas utilizando só funções do Node. Para rodar a aplicação utilizei o nodemon visto que utilizar apenas o node
+era preciso sempre parar o servidor criado a cada atualização e o nodemon tem a atualização em tempo real.
